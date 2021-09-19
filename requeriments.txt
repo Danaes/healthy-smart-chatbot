@@ -1,0 +1,10 @@
+python-telegram-bot
+spacy
+emoji
+pandas
+matplotlib
+sklearn
+seaborn
+unidecode
+weasyprint
+graphviz
